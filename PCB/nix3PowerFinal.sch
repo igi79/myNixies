@@ -28628,7 +28628,7 @@ Source: www.kingbright.com</description>
 <part name="D4" library="diode" deviceset="DIODE-" device="D-5" value="1N914"/>
 <part name="D5" library="diode" deviceset="DIODE-" device="D-5" value="BAV21"/>
 <part name="Q2" library="transistor-pnp" deviceset="MPSA56*" device=""/>
-<part name="Q3" library="transistor-fet" deviceset="IRF620" device=""/>
+<part name="Q3" library="transistor-fet" deviceset="IRF620" device="" value="IRF630"/>
 <part name="R8" library="resistor" deviceset="R-EU_" device="0204/5" value="1k"/>
 <part name="GND17" library="supply1" deviceset="GND" device=""/>
 <part name="GND18" library="supply1" deviceset="GND" device=""/>
@@ -28639,7 +28639,7 @@ Source: www.kingbright.com</description>
 <part name="GND20" library="supply1" deviceset="GND" device=""/>
 <part name="C9" library="resistor" deviceset="C-EU" device="050-025X075" value="100n"/>
 <part name="GND21" library="supply1" deviceset="GND" device=""/>
-<part name="L1" library="inductor-neosid" deviceset="BS" device="11"/>
+<part name="L1" library="inductor-neosid" deviceset="BS" device="11" value="470uH"/>
 <part name="SUPPLY10" library="supply2" deviceset="+12V" device=""/>
 <part name="SUPPLY11" library="supply2" deviceset="V+" device="" value="V+170"/>
 <part name="C10" library="resistor" deviceset="CPOL-EU" device="E3.5-8" value="2.2u"/>
